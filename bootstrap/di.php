@@ -1,0 +1,3 @@
+<?php
+
+//Yii::$container->setSingleton()

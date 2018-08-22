@@ -1,0 +1,22 @@
+{
+    "name": "tvolly/yii2-core",
+    "description": "Yii2 Core",
+    "authors": [
+        {
+            "name": "Tursun Garipov",
+            "email": "garipovtursun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tvolly\\core\\": "src/"
+        },
+        "files": [
+            "bootstrap/index.php"
+        ]
+    }
+}
